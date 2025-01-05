@@ -1,7 +1,5 @@
 #include <iostream>
-#include <string>
 using namespace std;
-
 int main() {
     // Constants
     const int maxSeats = 5;
